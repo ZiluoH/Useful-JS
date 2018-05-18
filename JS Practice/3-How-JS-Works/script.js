@@ -3,17 +3,23 @@
 
 //Variables
 
+/*
 console.log(age);
 var age = 23;
+// console.log(age);
+
+
+
+
+function foo(){
+    var age = 65;
+    console.log(age);
+}
+
+foo();
 console.log(age);
 
-
-
-
-
-
-
-
+*/
 
 
 
